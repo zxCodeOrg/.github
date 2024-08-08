@@ -1,3 +1,1 @@
-## zxCodeOrg
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxCodeOrg&show_icons=true&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=zxCodeOrg)](https://git.io/typing-svg)
